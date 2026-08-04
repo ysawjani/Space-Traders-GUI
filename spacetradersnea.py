@@ -3,15 +3,11 @@ from tkinter import ttk
 from collections import defaultdict
 from datetime import datetime, timezone
 from itertools import zip_longest
-
 import json
 import os.path
 import requests
-
 import locale
-
 from tkinter import *
-
 import time
 from datetime import datetime as dt
 
