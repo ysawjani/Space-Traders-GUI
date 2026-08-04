@@ -8,10 +8,10 @@ raw API requests. Built in Python with Tkinter for my NEA prep project.
 Started from a base template (login, summary, and leaderboard tabs) given 
 by my teacher. I added two new tabs:
 
-**Ships tab** — scan nearby waypoints, navigate between them (with a live 
+**Ships tab** - scan nearby waypoints, navigate between them (with a live 
 countdown), dock/orbit, refuel, and extract resources
 
-**Marketplace tab** — view nearby marketplaces and buy/sell/exchange goods, 
+**Marketplace tab** - view nearby marketplaces and buy/sell/exchange goods, 
 with credits updating after each trade
 
 
